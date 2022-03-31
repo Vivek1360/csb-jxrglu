@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://vivek1360.github.io/csb-jxrglu/static/js/main.9714d57d.chunk.js",
-    "main.js.map": "https://vivek1360.github.io/csb-jxrglu/static/js/main.9714d57d.chunk.js.map",
-    "runtime-main.js": "https://vivek1360.github.io/csb-jxrglu/static/js/runtime-main.a7c8f1ef.js",
-    "runtime-main.js.map": "https://vivek1360.github.io/csb-jxrglu/static/js/runtime-main.a7c8f1ef.js.map",
-    "static/js/2.0826c75a.chunk.js": "https://vivek1360.github.io/csb-jxrglu/static/js/2.0826c75a.chunk.js",
-    "static/js/2.0826c75a.chunk.js.map": "https://vivek1360.github.io/csb-jxrglu/static/js/2.0826c75a.chunk.js.map",
+    "main.js": "https://vivek1360.github.io/csb-jxrglu/static/js/main.bc994a1e.chunk.js",
+    "main.js.map": "https://vivek1360.github.io/csb-jxrglu/static/js/main.bc994a1e.chunk.js.map",
+    "runtime-main.js": "https://vivek1360.github.io/csb-jxrglu/static/js/runtime-main.58eabc48.js",
+    "runtime-main.js.map": "https://vivek1360.github.io/csb-jxrglu/static/js/runtime-main.58eabc48.js.map",
+    "static/js/2.dc65c2b2.chunk.js": "https://vivek1360.github.io/csb-jxrglu/static/js/2.dc65c2b2.chunk.js",
+    "static/js/2.dc65c2b2.chunk.js.map": "https://vivek1360.github.io/csb-jxrglu/static/js/2.dc65c2b2.chunk.js.map",
     "index.html": "https://vivek1360.github.io/csb-jxrglu/index.html",
-    "static/js/2.0826c75a.chunk.js.LICENSE.txt": "https://vivek1360.github.io/csb-jxrglu/static/js/2.0826c75a.chunk.js.LICENSE.txt"
+    "static/js/2.dc65c2b2.chunk.js.LICENSE.txt": "https://vivek1360.github.io/csb-jxrglu/static/js/2.dc65c2b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7c8f1ef.js",
-    "static/js/2.0826c75a.chunk.js",
-    "static/js/main.9714d57d.chunk.js"
+    "static/js/runtime-main.58eabc48.js",
+    "static/js/2.dc65c2b2.chunk.js",
+    "static/js/main.bc994a1e.chunk.js"
   ]
 }
